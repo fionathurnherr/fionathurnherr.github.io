@@ -1,0 +1,83 @@
+body {
+	background-color: #d0e4fe;
+	font-size: 10px;
+	background-image: url("../img/pattern.png");
+	background-repeat: repeat;
+	background-size: 200px;
+}
+
+h1{
+	color: lightblue;
+	text-align: center;
+	font-family: arial;
+	font-size: 50px;
+}
+
+
+.wrapp{
+	width: 960px;
+	height: 600px;
+	margin: 0 auto;
+	
+
+}
+
+/* Weltwunder*/
+.weltwunder{
+	float: left;
+	margin: 0 160px 40px 0;
+}
+
+.weltwunder p{
+	font-size: 20px;
+}
+
+.weltwunder img{
+	width: 320px;
+}
+
+.weltwunder a{
+	text-decoration: none; /* nicht unterstrichen */
+}
+
+.weltwunder p:hover{ /*Farbe wechseln bei hover */
+	color: lightblue;
+
+}
+
+.weltwunder p{ /*Farbe wechseln bei hover */
+	color: black;}
+
+
+.page2{
+	float: center;
+	margin: 0 auto;
+	width: 960px;
+	height: 600px;
+}
+
+.page3{
+	float: center;
+	margin: 0 auto;
+	width: 960px;
+	height: 600px;
+}
+
+
+.page4{
+	float: center;
+	margin: 0 auto;
+	width: 960px;
+	height: 600px;
+}
+
+.page5{
+	float: center;
+	margin: 0 auto;
+	width: 960px;
+	height: 600px;
+
+}
+.start{
+	font-size: 40px;
+}
